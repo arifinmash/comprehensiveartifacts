@@ -3,3 +3,4 @@ The goal of this study was to build a malware detector using CICMalmem datasets.
 
 
 # Data Generation 
+![Screenshot](datageneration.png)
