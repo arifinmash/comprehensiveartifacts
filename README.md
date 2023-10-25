@@ -5,6 +5,8 @@ This study aimed to build a malware detector using CICMalmem datasets, which wil
 ## Data Generation 
 ![Screenshot](datasetgeneration.png)
 
+## Training & Test Dataset 
+![Screenshot](dataset.png)
 
 ## Model Building and Evasion Attack
 
