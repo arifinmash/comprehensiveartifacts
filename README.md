@@ -12,24 +12,18 @@ The following architectural approach was adopted to construct our datasets. In p
 
 ### Model Building and Evasion Attack
 We have experimente the below machine learning and deep learning models
--machine learning models 
--Decision tree
--Random Forest
--LGBM
--Naive Bayes 
+machine learning models 
+*Decision tree
+*Random Forest
+*LGBM
+*Naive Bayes 
 
 Deep Learning Model
--ANN (artificial Neural Network)
--CNN (Convolutional Neural Network)
+*ANN (artificial Neural Network)
+*CNN (Convolutional Neural Network)
 
 Adversarial Attack/ Evasion Attack
--FGSM (fast gradient sign method)
--JSMA (jacobian saliency map attack)
-
-
-
-
-
-### Trained Models 
+*FGSM (fast gradient sign method)
+*JSMA (jacobian saliency map attack)
 
 ### References
