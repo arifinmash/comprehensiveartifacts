@@ -19,11 +19,11 @@ machine learning models
 * Naive Bayes 
 
 Deep Learning Model
-* ANN (artificial Neural Network)
+* ANN (Artificial Neural Network)
 * CNN (Convolutional Neural Network)
 
 Adversarial Attack/ Evasion Attack
-* FGSM (fast gradient sign method)
-* JSMA (jacobian saliency map attack)
+* FGSM (Fast Gradient Sign Method)
+* JSMA (Jacobian Saliency Map Attack)
 
 ### References
