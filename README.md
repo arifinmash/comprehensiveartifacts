@@ -8,7 +8,7 @@ The purpose of generating additional data is to assess the performance of the mo
 
 ## Training & Test Dataset creation
 We have followed the below architecture to create our datasets. We have created two test datasets for testing our best performing model. 
-<img src="dataset.png" width="80" height="80">
+<img src="dataset.png">
 
 ## Model Building and Evasion Attack
 
