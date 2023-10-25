@@ -7,8 +7,8 @@ The purpose of generating additional data is to assess the performance of the mo
 ![Screenshot width="10" height="10"](datasetgeneration.png)
 
 ## Training & Test Dataset creation
-We have followed the below architecture to create our datasets. We have created two test datasets for testing our best performing model. 
-<img src="dataset.png">
+The following architectural approach was adopted to construct our datasets. In preparation for evaluating our best-performing model, we produced two separate test datasets. Primarily, our generation of malware samples involved oversampling utilizing two techniques, specifically SMOTE and random sampling. To maintain class balance, we incorporated benign samples from the CIC-malme-2022 dataset and integrated our oversampled malware samples into the two designated test datasets. 
+![Screenshot width="10" height="10"](dataset.png)
 
 ## Model Building and Evasion Attack
 
