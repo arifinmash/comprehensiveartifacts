@@ -30,3 +30,4 @@ Adversarial Attack/ Evasion Attack
 ** Tristan Carrier, Princy Victor, Ali Tekeoglu, Arash Habibi Lashkari,” Detecting Obfuscated Malware using Memory Feature Engineering”, The 8th International Conference on Information Systems Security and Privacy (ICISSP), 2022
 
 ** https://github.com/ahlashkari/VolMemLyzer
+** https://stackoverflow.com/questions/58638406/superviseddbnclassification-object-has-no-attribute-classes
