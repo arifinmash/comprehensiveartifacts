@@ -8,7 +8,7 @@ The reason for generating data is to observe the model's performance with the un
 
 ## Training & Test Dataset creation
 We have followed the below architecture to create our datasets. We have created two test datasets for testing our best performing model. 
-<img src="dataset.png" width="100" height="100">
+<img src="dataset.png" width="10" height="10">
 
 ## Model Building and Evasion Attack
 
