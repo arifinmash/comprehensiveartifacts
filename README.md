@@ -3,7 +3,7 @@ The primary objective of this project was to construct a malware detection syste
 
 ## Methodology
 ### Data Generation 
-The purpose of generating additional data is to assess the performance of the model when exposed to unfamiliar data. The original dataset, sourced from the CIC website, was primarily focused on trojans, spyware, and ransomware. To expand the diversity of malware types in our dataset, we gathered samples from various other categories, such as botnets, advanced persistent threats (APTs), keyloggers, and more. We then established a virtual environment and executed each malware sample within it, capturing memory dumps using FTK Imager software. Subsequently, we employed a tool called "volmemlyzer" to analyze these memory dump images, extracting relevant features and associated data for further examination.
+The purpose of generating additional data is to assess the performance of the model when exposed to unfamiliar malware. The original dataset, sourced from the CIC website, was primarily focused on trojans, spyware, and ransomware. To expand the diversity of malware types in our dataset, we gathered samples from various other categories, such as botnets, advanced persistent threats (APTs), keyloggers, and more. We then established a virtual environment and executed each malware sample within it, capturing memory dumps using FTK Imager software. Subsequently, we employed a tool called "volmemlyzer" to analyze these memory dump images, extracting relevant features and associated data for further examination.
 ![Screenshot width="10" height="10"](datasetgeneration.png)
 
 ### Training & Test Dataset creation
@@ -13,17 +13,17 @@ The following architectural approach was adopted to construct our datasets. In p
 ### Model Building and Evasion Attack
 We have experimente the below machine learning and deep learning models
 machine learning models 
-*Decision tree
-*Random Forest
-*LGBM
-*Naive Bayes 
+* Decision tree
+* Random Forest
+* LGBM
+* Naive Bayes 
 
 Deep Learning Model
-*ANN (artificial Neural Network)
-*CNN (Convolutional Neural Network)
+* ANN (artificial Neural Network)
+* CNN (Convolutional Neural Network)
 
 Adversarial Attack/ Evasion Attack
-*FGSM (fast gradient sign method)
-*JSMA (jacobian saliency map attack)
+* FGSM (fast gradient sign method)
+* JSMA (jacobian saliency map attack)
 
 ### References
