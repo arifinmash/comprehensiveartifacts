@@ -27,6 +27,6 @@ Adversarial Attack/ Evasion Attack
 * JSMA (Jacobian Saliency Map Attack)
 
 ### References
-[1]Tristan Carrier, Princy Victor, Ali Tekeoglu, Arash Habibi Lashkari,” Detecting Obfuscated Malware using Memory Feature Engineering”, The 8th International Conference on Information Systems Security and Privacy (ICISSP), 2022
+** Tristan Carrier, Princy Victor, Ali Tekeoglu, Arash Habibi Lashkari,” Detecting Obfuscated Malware using Memory Feature Engineering”, The 8th International Conference on Information Systems Security and Privacy (ICISSP), 2022
 
-[2]https://github.com/ahlashkari/VolMemLyzer
+** https://github.com/ahlashkari/VolMemLyzer
