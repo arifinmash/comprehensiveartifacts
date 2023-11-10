@@ -8,7 +8,7 @@ The purpose of generating additional data is to assess the performance of the mo
 
 ### Training & Test Dataset creation
 The following architectural approach was adopted to construct our datasets. 
-![Screenshot width="10" height="10"](dataset1.png)
+![Screenshot width="10" height="10"](dataset.png)
 
 ### Model Building and Evasion Attack
 We have experimented the below machine learning and deep learning models
